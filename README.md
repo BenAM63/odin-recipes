@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe Project practicing HTML to show what I have learned in terms of the HTML boilerplate, headers, paragraphs, lists, images, and hyperlinks
